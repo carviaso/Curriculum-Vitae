@@ -232,7 +232,7 @@ body {
     height: 2px;
 }
 
-.container .resume-hobby ul li::last-child::before {
+.container .resume-hobby ul li:last-child::before {
     display: none;
 }
 
