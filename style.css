@@ -240,6 +240,7 @@ body {
 
 a:link {
     text-decoration: none;
+    color:white;
 }
 
 a:visited {
@@ -253,4 +254,5 @@ a:hover {
 
 a:active {
     text-decoration: underline;
+    color:white;
 }
