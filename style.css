@@ -49,6 +49,12 @@ body {
     border-bottom: 2px solid #333e515e;
 }
 
+.container .resume-item .lang{
+    padding: 0 25px;
+    color: #fff;
+    border-bottom: 2px solid #fafcff5e;
+}
+
 .container .title {
     margin-bottom: 20px;
 }
